@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dnakhoa
-- 👀 I’m interested in Quantiative Finance, Economy, Commodities and Data Science
-- 🌱 I’m currently learning Computer Science at Deakin University Australia
-- 💞️ I’m looking to collaborate on Data Science projects in Finance or Economy
+- 👀 I’m interested in Data Engineerin
+- 🌱 I’m currently learning Computer Science at Oregon State University, Oregon
+- 💞️ I’m looking to collaborate on Data Engineering Projects
 - 📫 How to reach me: https://www.linkedin.com/in/anh-khoa-doan-ngoc/
 
 <!---
