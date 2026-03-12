@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnakhoa
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Computer Science at La Trobe University, Melbourne
+- 👀 I’m interested in Data and AI Engineering
+- 🌱 I’m a Master of IT from Latrobe University Melbourne
 - 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me: https://www.linkedin.com/in/anh-khoa-doan-ngoc/
 
