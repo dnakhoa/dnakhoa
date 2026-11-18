@@ -5,7 +5,11 @@ where correctness is provable — invariants, concurrency, data integrity — an
 putting the rules somewhere they cannot be bypassed rather than somewhere they
 are merely followed.
 
-Master of IT, La Trobe University Melbourne.
+PhD candidate at Auckland University of Technology (AUT), supervised by
+Prof. Peter Chong, working on optimal charging and discharging for
+vehicle-to-grid (V2G) electric-vehicle networks.
+
+Previously: Master of IT, La Trobe University, Melbourne.
 
 ---
 
